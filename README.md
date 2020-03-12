@@ -1,2 +1,2 @@
 # test 
-console
+console.log("helllo");
